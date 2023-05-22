@@ -3,7 +3,7 @@
     internal class Articulo
     {
         public string nombre { get; set; }
-        public string precio { get; set; }
+        public double precio { get; set; }
         
     }
 }
